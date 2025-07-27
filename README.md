@@ -80,12 +80,12 @@ Key Feature: Passenger Title significantly improves prediction
 
 Deployment
 Hosted via Streamlit Cloud:
-👉 Live Demo Link (add after deploying)
+https://titanicsurvivalprediction-efwmffpbrd2uoszpd9uhoa.streamlit.app/
 
 Author
 Muhammad Wahaj Asad
 
-GitHub
+https://github.com/MUHAMMADWAHAJASAD
 
-LinkedIn (add if available)
+LinkedIn www.linkedin.com/in/wahaj-asad-9a1092206
 
